@@ -1,4 +1,4 @@
-# Blockchain Pet Shop
+# Pet Shop
 A decentralized app which associates an Ethereum address with a pet to be adopted.
 
 ### Source
